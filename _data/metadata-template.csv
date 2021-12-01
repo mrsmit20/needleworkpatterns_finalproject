@@ -1,2 +1,6 @@
 objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-coll001,test001.jpg,,,"Administration Building, University of Idaho, No. 30",Pacific Photo Co.,1910,"Photographic postcard of the University of Idaho administration building in Moscow, Idaho.",universities;buildings;campuses;picture postcards,"Moscow, Idaho",46.725562,-117.009633,"PG 9, Postcard Collection, University of Idaho Library Special Collections and Archives",pg_9_12_01bl,Image;StillImage,image/jpeg,eng,,http://rightsstatements.org/vocab/NoC-US/1.0/
+book0001,,,,New chenille hats for you to make quickly and economically,Bernhard Ulmann Co. Inc.,1942,,crochet; hats,,,,,Vol13-No307,,image/jpeg,,,
+book0002,,,,Peter Pan,"Wool Trading Co., Inc.",,,crochet; hats; bags,,,,,Vol04-No000,,image/jpeg,,,
+book0003,,,,Star Doily Book,American Thread Co.,1956,,crochet; doilies,,,,,Vol00-No128,,image/jpeg,,,
+book0004,,,,Edgings,The Spool Cotton Company,1942,,crochet; edgings,,,,,Vol00-No182,,image/jpeg,,,
+book0005,,,,Doilies,"Royal Society, Inc.",1951,,crochet; doilies,,,,,Vol00-No012,,image/jpeg,,,
